@@ -1,0 +1,35 @@
+ body{
+ 	color: white;
+ }
+main {
+	width: 60%;
+	margin: 0 auto;
+	background-image: url("../bild/monster.jpg")
+}
+h1 {
+	font-family: 'Noto Serif JP', sans-serif;
+	font-size:_ 3em;
+	background-color: red;
+}
+h1, h3 {
+	text-align: center;
+}
+p {
+	font-family: 'Playfair Display', serif;
+	text-align: center;
+ }	
+ blockquote {
+            font-family: 'Lato', sans-serif;
+            text-align: center;
+ }
+ .signature {
+ 	       font-weight:bold;
+
+ }
+ #kapitel1, #kapitel2 {
+
+ }
+ .bg{
+
+    }	
+
